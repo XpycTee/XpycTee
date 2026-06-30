@@ -43,6 +43,6 @@ I work with APIs, databases, Linux environments, and containerized applications.
 
 ## Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40XpycTee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/XpycTee)
+[![Telegram](https://img.shields.io/badge/Telegram-%40XpycTee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xpyctee)
 [![Email](https://img.shields.io/badge/Email-i%40xpyctee.ru-22C55E?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:i%2Bresume@xpyctee.ru)
 [![Email](https://img.shields.io/badge/Email-xpyct9999%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xpyct9999%2Bresume@gmail.com)
